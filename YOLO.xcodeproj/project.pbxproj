@@ -15,8 +15,6 @@
 		4B0BFDFD2FE8FCFC000E3655 /* lpr26x.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4B0BFDFC2FE8FCFC000E3655 /* lpr26x.mlpackage */; };
 		4B3457922EBA6E0C0059FAFC /* DetectedPlateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3457912EBA6E0C0059FAFC /* DetectedPlateViewController.swift */; };
 		4B47F4C42EDEF9D10013C084 /* LPR_OCR icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C32EDEF9D10013C084 /* LPR_OCR icon.png */; };
-		4B47F4C62EDEF9D60013C084 /* 1111.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C52EDEF9D60013C084 /* 1111.png */; };
-		4B47F4C82EDEF9F70013C084 /* License Plate Recognition Icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C72EDEF9F70013C084 /* License Plate Recognition Icons.png */; };
 		4B4A1FBC2EF6986100855470 /* ValidationStabilizationMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4A1FBB2EF6985D00855470 /* ValidationStabilizationMode.swift */; };
 		4B4A1FBE2EF6B21500855470 /* ShowOCR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4A1FBD2EF6B20E00855470 /* ShowOCR.swift */; };
 		4B4A1FC02EFA71D400855470 /* MultiPlates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4A1FBF2EFA719700855470 /* MultiPlates.swift */; };
@@ -34,11 +32,6 @@
 		636EFCB921E62E3900DE43BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 636EFCB821E62E3900DE43BC /* Assets.xcassets */; };
 		63CF371F2514455300E2DEA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6323C44D22186177008AE681 /* LaunchScreen.storyboard */; };
 		63CF37202514455300E2DEA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6323C44F22186177008AE681 /* Main.storyboard */; };
-		73E3C7FE2CE3AF1A00E2D85C /* yolo11m.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 73E3C7FA2CE3AF1A00E2D85C /* yolo11m.mlpackage */; };
-		73E3C7FF2CE3AF1A00E2D85C /* yolo11l.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 73E3C7F92CE3AF1A00E2D85C /* yolo11l.mlpackage */; };
-		73E3C8002CE3AF1A00E2D85C /* yolo11x.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 73E3C7FD2CE3AF1A00E2D85C /* yolo11x.mlpackage */; };
-		73E3C8012CE3AF1A00E2D85C /* yolo11s.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 73E3C7FC2CE3AF1A00E2D85C /* yolo11s.mlpackage */; };
-		73E3C8022CE3AF1A00E2D85C /* yolo11n.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 73E3C7FB2CE3AF1A00E2D85C /* yolo11n.mlpackage */; };
 		8EDAA33950796844333D60A7 /* BoundingBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EDAA633C1F2B50286D16008 /* BoundingBoxView.swift */; };
 /* End PBXBuildFile section */
 
@@ -50,8 +43,6 @@
 		4B0BFDFC2FE8FCFC000E3655 /* lpr26x.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr26x.mlpackage; sourceTree = "<group>"; };
 		4B3457912EBA6E0C0059FAFC /* DetectedPlateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectedPlateViewController.swift; sourceTree = "<group>"; };
 		4B47F4C32EDEF9D10013C084 /* LPR_OCR icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LPR_OCR icon.png"; sourceTree = "<group>"; };
-		4B47F4C52EDEF9D60013C084 /* 1111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1111.png; sourceTree = "<group>"; };
-		4B47F4C72EDEF9F70013C084 /* License Plate Recognition Icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "License Plate Recognition Icons.png"; sourceTree = "<group>"; };
 		4B4A1FBB2EF6985D00855470 /* ValidationStabilizationMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationStabilizationMode.swift; sourceTree = "<group>"; };
 		4B4A1FBD2EF6B20E00855470 /* ShowOCR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowOCR.swift; sourceTree = "<group>"; };
 		4B4A1FBF2EFA719700855470 /* MultiPlates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiPlates.swift; sourceTree = "<group>"; };
@@ -73,14 +64,8 @@
 		636EFCA721E62DD300DE43BC /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		636EFCB821E62E3900DE43BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63B8B0A821E62A890026FBC3 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		73E3C7F92CE3AF1A00E2D85C /* yolo11l.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11l.mlpackage; sourceTree = "<group>"; };
-		73E3C7FA2CE3AF1A00E2D85C /* yolo11m.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11m.mlpackage; sourceTree = "<group>"; };
-		73E3C7FB2CE3AF1A00E2D85C /* yolo11n.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11n.mlpackage; sourceTree = "<group>"; };
-		73E3C7FC2CE3AF1A00E2D85C /* yolo11s.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11s.mlpackage; sourceTree = "<group>"; };
-		73E3C7FD2CE3AF1A00E2D85C /* yolo11x.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11x.mlpackage; sourceTree = "<group>"; };
 		7BCB411721C3096100BFC4D0 /* LPR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LPR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EDAA633C1F2B50286D16008 /* BoundingBoxView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoundingBoxView.swift; sourceTree = "<group>"; };
-		8EDAAA4507D2D23D7FAB827F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A7DF3BD34D8D4D417E75D28F /* Pods_YOLO.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YOLO.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -131,8 +116,6 @@
 				633BC6FA22EDE73D00821BCA /* Settings.bundle */,
 				632892DF22EB3DB100A12D9C /* Info.plist */,
 				636EFCB821E62E3900DE43BC /* Assets.xcassets */,
-				4B47F4C72EDEF9F70013C084 /* License Plate Recognition Icons.png */,
-				4B47F4C52EDEF9D60013C084 /* 1111.png */,
 				4B47F4C32EDEF9D10013C084 /* LPR_OCR icon.png */,
 				4B5E55CF2E79CADF00407C17 /* tessdata */,
 			);
@@ -142,11 +125,6 @@
 		63A946D8271800E20001C3ED /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				73E3C7F92CE3AF1A00E2D85C /* yolo11l.mlpackage */,
-				73E3C7FA2CE3AF1A00E2D85C /* yolo11m.mlpackage */,
-				73E3C7FB2CE3AF1A00E2D85C /* yolo11n.mlpackage */,
-				73E3C7FC2CE3AF1A00E2D85C /* yolo11s.mlpackage */,
-				73E3C7FD2CE3AF1A00E2D85C /* yolo11x.mlpackage */,
 				4B8277032D6475100072972D /* lpr11m.mlpackage */,
 				4B8277052D6475220072972D /* lpr11n.mlpackage */,
 				4B8277012D64750C0072972D /* lpr11l.mlpackage */,
@@ -172,7 +150,6 @@
 		7BCB410E21C3096100BFC4D0 = {
 			isa = PBXGroup;
 			children = (
-				8EDAAA4507D2D23D7FAB827F /* README.md */,
 				636EFC9B21E62DD300DE43BC /* YOLO */,
 				63B8B0A821E62A890026FBC3 /* .gitignore */,
 				7BCB411821C3096100BFC4D0 /* Products */,
@@ -255,13 +232,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B47F4C82EDEF9F70013C084 /* License Plate Recognition Icons.png in Resources */,
 				4B5E55D02E79CADF00407C17 /* tessdata in Resources */,
 				4B47F4C42EDEF9D10013C084 /* LPR_OCR icon.png in Resources */,
 				636EFCB921E62E3900DE43BC /* Assets.xcassets in Resources */,
 				63CF37202514455300E2DEA1 /* Main.storyboard in Resources */,
 				63CF371F2514455300E2DEA1 /* LaunchScreen.storyboard in Resources */,
-				4B47F4C62EDEF9D60013C084 /* 1111.png in Resources */,
 				633BC6FB22EDE73D00821BCA /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -349,14 +324,9 @@
 				4B0BFDFD2FE8FCFC000E3655 /* lpr26x.mlpackage in Sources */,
 				4B0BFDFB2FE82B1F000E3655 /* lpr26l.mlpackage in Sources */,
 				4B8277062D6475220072972D /* lpr11n.mlpackage in Sources */,
-				73E3C7FE2CE3AF1A00E2D85C /* yolo11m.mlpackage in Sources */,
-				73E3C7FF2CE3AF1A00E2D85C /* yolo11l.mlpackage in Sources */,
 				4B0BFDF72FD99637000E3655 /* lpr26s.mlpackage in Sources */,
 				4B8277082D6475280072972D /* lpr11s.mlpackage in Sources */,
-				73E3C8002CE3AF1A00E2D85C /* yolo11x.mlpackage in Sources */,
 				4B4A1FBC2EF6986100855470 /* ValidationStabilizationMode.swift in Sources */,
-				73E3C8012CE3AF1A00E2D85C /* yolo11s.mlpackage in Sources */,
-				73E3C8022CE3AF1A00E2D85C /* yolo11n.mlpackage in Sources */,
 				636EFCAA21E62DD300DE43BC /* ViewController.swift in Sources */,
 				8EDAA33950796844333D60A7 /* BoundingBoxView.swift in Sources */,
 				4B82770A2D64752B0072972D /* lpr11x.mlpackage in Sources */,
