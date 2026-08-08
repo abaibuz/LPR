@@ -11,7 +11,6 @@ import CoreML
 import CoreMedia
 import UIKit
 import Vision
-import TesseractOCR
 import AudioToolbox
 
 extension ViewController {

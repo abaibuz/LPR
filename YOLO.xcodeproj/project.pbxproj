@@ -14,11 +14,9 @@
 		4B0BFDFB2FE82B1F000E3655 /* lpr26l.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4B0BFDFA2FE82B1F000E3655 /* lpr26l.mlpackage */; };
 		4B0BFDFD2FE8FCFC000E3655 /* lpr26x.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4B0BFDFC2FE8FCFC000E3655 /* lpr26x.mlpackage */; };
 		4B3457922EBA6E0C0059FAFC /* DetectedPlateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B3457912EBA6E0C0059FAFC /* DetectedPlateViewController.swift */; };
-		4B47F4C22EDEF9AE0013C084 /* LicPlateLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C12EDEF9AE0013C084 /* LicPlateLogo.png */; };
 		4B47F4C42EDEF9D10013C084 /* LPR_OCR icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C32EDEF9D10013C084 /* LPR_OCR icon.png */; };
 		4B47F4C62EDEF9D60013C084 /* 1111.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C52EDEF9D60013C084 /* 1111.png */; };
 		4B47F4C82EDEF9F70013C084 /* License Plate Recognition Icons.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C72EDEF9F70013C084 /* License Plate Recognition Icons.png */; };
-		4B47F4CA2EDEFA080013C084 /* Foto avto lp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4B47F4C92EDEFA080013C084 /* Foto avto lp.jpg */; };
 		4B4A1FBC2EF6986100855470 /* ValidationStabilizationMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4A1FBB2EF6985D00855470 /* ValidationStabilizationMode.swift */; };
 		4B4A1FBE2EF6B21500855470 /* ShowOCR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4A1FBD2EF6B20E00855470 /* ShowOCR.swift */; };
 		4B4A1FC02EFA71D400855470 /* MultiPlates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B4A1FBF2EFA719700855470 /* MultiPlates.swift */; };
@@ -28,9 +26,6 @@
 		4B8277062D6475220072972D /* lpr11n.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4B8277052D6475220072972D /* lpr11n.mlpackage */; };
 		4B8277082D6475280072972D /* lpr11s.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4B8277072D6475270072972D /* lpr11s.mlpackage */; };
 		4B82770A2D64752B0072972D /* lpr11x.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = 4B8277092D64752B0072972D /* lpr11x.mlpackage */; };
-		4B8277222D6B2CE60072972D /* Снимок плеера 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B8277202D6B2CE60072972D /* Снимок плеера 2.png */; };
-		4B8277232D6B2CE60072972D /* Снимок плеера 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B82771F2D6B2CE60072972D /* Снимок плеера 1.png */; };
-		4B8277242D6B2CE60072972D /* Снимок плеера 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B8277212D6B2CE60072972D /* Снимок плеера 3.png */; };
 		633BC6FB22EDE73D00821BCA /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 633BC6FA22EDE73D00821BCA /* Settings.bundle */; };
 		636166EA251443B20054FA7E /* ThresholdProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636166E9251443B20054FA7E /* ThresholdProvider.swift */; };
 		636EFCAA21E62DD300DE43BC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636EFC9C21E62DD300DE43BC /* ViewController.swift */; };
@@ -48,18 +43,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		121A22FF6962D99DFBF45368 /* Pods-YOLO.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YOLO.release.xcconfig"; path = "Target Support Files/Pods-YOLO/Pods-YOLO.release.xcconfig"; sourceTree = "<group>"; };
 		4B0BFDF42FD96263000E3655 /* lpr26n_8.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr26n_8.mlpackage; sourceTree = "<group>"; };
 		4B0BFDF62FD99637000E3655 /* lpr26s.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr26s.mlpackage; sourceTree = "<group>"; };
 		4B0BFDF82FE5A29E000E3655 /* lpr26m.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr26m.mlpackage; sourceTree = "<group>"; };
 		4B0BFDFA2FE82B1F000E3655 /* lpr26l.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr26l.mlpackage; sourceTree = "<group>"; };
 		4B0BFDFC2FE8FCFC000E3655 /* lpr26x.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr26x.mlpackage; sourceTree = "<group>"; };
 		4B3457912EBA6E0C0059FAFC /* DetectedPlateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectedPlateViewController.swift; sourceTree = "<group>"; };
-		4B47F4C12EDEF9AE0013C084 /* LicPlateLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LicPlateLogo.png; sourceTree = "<group>"; };
 		4B47F4C32EDEF9D10013C084 /* LPR_OCR icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LPR_OCR icon.png"; sourceTree = "<group>"; };
 		4B47F4C52EDEF9D60013C084 /* 1111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1111.png; sourceTree = "<group>"; };
 		4B47F4C72EDEF9F70013C084 /* License Plate Recognition Icons.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "License Plate Recognition Icons.png"; sourceTree = "<group>"; };
-		4B47F4C92EDEFA080013C084 /* Foto avto lp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Foto avto lp.jpg"; sourceTree = "<group>"; };
 		4B4A1FBB2EF6985D00855470 /* ValidationStabilizationMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValidationStabilizationMode.swift; sourceTree = "<group>"; };
 		4B4A1FBD2EF6B20E00855470 /* ShowOCR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowOCR.swift; sourceTree = "<group>"; };
 		4B4A1FBF2EFA719700855470 /* MultiPlates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiPlates.swift; sourceTree = "<group>"; };
@@ -69,9 +61,8 @@
 		4B8277052D6475220072972D /* lpr11n.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr11n.mlpackage; sourceTree = "<group>"; };
 		4B8277072D6475270072972D /* lpr11s.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr11s.mlpackage; sourceTree = "<group>"; };
 		4B8277092D64752B0072972D /* lpr11x.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = lpr11x.mlpackage; sourceTree = "<group>"; };
-		4B82771F2D6B2CE60072972D /* Снимок плеера 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок плеера 1.png"; sourceTree = "<group>"; };
-		4B8277202D6B2CE60072972D /* Снимок плеера 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок плеера 2.png"; sourceTree = "<group>"; };
-		4B8277212D6B2CE60072972D /* Снимок плеера 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок плеера 3.png"; sourceTree = "<group>"; };
+		4BA74844301E3E63002E79BE /* Target Support Files/Pods-YOLO/Pods-YOLO.debug.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Target Support Files/Pods-YOLO/Pods-YOLO.debug.xcconfig"; sourceTree = "<group>"; };
+		4BA74845301E3E78002E79BE /* Target Support Files/Pods-YOLO/Pods-YOLO.release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = "Target Support Files/Pods-YOLO/Pods-YOLO.release.xcconfig"; sourceTree = "<group>"; };
 		6323C44D22186177008AE681 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6323C44F22186177008AE681 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		632892DF22EB3DB100A12D9C /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
@@ -88,7 +79,6 @@
 		73E3C7FC2CE3AF1A00E2D85C /* yolo11s.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11s.mlpackage; sourceTree = "<group>"; };
 		73E3C7FD2CE3AF1A00E2D85C /* yolo11x.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = yolo11x.mlpackage; sourceTree = "<group>"; };
 		7BCB411721C3096100BFC4D0 /* LPR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LPR.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E9750C02C178849AC077E20 /* Pods-YOLO.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-YOLO.debug.xcconfig"; path = "Target Support Files/Pods-YOLO/Pods-YOLO.debug.xcconfig"; sourceTree = "<group>"; };
 		8EDAA633C1F2B50286D16008 /* BoundingBoxView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoundingBoxView.swift; sourceTree = "<group>"; };
 		8EDAAA4507D2D23D7FAB827F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A7DF3BD34D8D4D417E75D28F /* Pods_YOLO.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YOLO.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -109,8 +99,8 @@
 		0E4EE095CDFA64034B4233E9 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				8E9750C02C178849AC077E20 /* Pods-YOLO.debug.xcconfig */,
-				121A22FF6962D99DFBF45368 /* Pods-YOLO.release.xcconfig */,
+				4BA74845301E3E78002E79BE /* Target Support Files/Pods-YOLO/Pods-YOLO.release.xcconfig */,
+				4BA74844301E3E63002E79BE /* Target Support Files/Pods-YOLO/Pods-YOLO.debug.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -142,13 +132,8 @@
 				632892DF22EB3DB100A12D9C /* Info.plist */,
 				636EFCB821E62E3900DE43BC /* Assets.xcassets */,
 				4B47F4C72EDEF9F70013C084 /* License Plate Recognition Icons.png */,
-				4B82771F2D6B2CE60072972D /* Снимок плеера 1.png */,
-				4B8277202D6B2CE60072972D /* Снимок плеера 2.png */,
-				4B47F4C92EDEFA080013C084 /* Foto avto lp.jpg */,
 				4B47F4C52EDEF9D60013C084 /* 1111.png */,
-				4B47F4C12EDEF9AE0013C084 /* LicPlateLogo.png */,
 				4B47F4C32EDEF9D10013C084 /* LPR_OCR icon.png */,
-				4B8277212D6B2CE60072972D /* Снимок плеера 3.png */,
 				4B5E55CF2E79CADF00407C17 /* tessdata */,
 			);
 			path = YOLO;
@@ -256,9 +241,6 @@
 				Base,
 			);
 			mainGroup = 7BCB410E21C3096100BFC4D0;
-			packageReferences = (
-				4BEBE0C42E75A56700EB006F /* XCRemoteSwiftPackageReference "Tesseract-OCR-iOS" */,
-			);
 			productRefGroup = 7BCB411821C3096100BFC4D0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -277,14 +259,9 @@
 				4B5E55D02E79CADF00407C17 /* tessdata in Resources */,
 				4B47F4C42EDEF9D10013C084 /* LPR_OCR icon.png in Resources */,
 				636EFCB921E62E3900DE43BC /* Assets.xcassets in Resources */,
-				4B47F4C22EDEF9AE0013C084 /* LicPlateLogo.png in Resources */,
-				4B47F4CA2EDEFA080013C084 /* Foto avto lp.jpg in Resources */,
 				63CF37202514455300E2DEA1 /* Main.storyboard in Resources */,
 				63CF371F2514455300E2DEA1 /* LaunchScreen.storyboard in Resources */,
 				4B47F4C62EDEF9D60013C084 /* 1111.png in Resources */,
-				4B8277222D6B2CE60072972D /* Снимок плеера 2.png in Resources */,
-				4B8277232D6B2CE60072972D /* Снимок плеера 1.png in Resources */,
-				4B8277242D6B2CE60072972D /* Снимок плеера 3.png in Resources */,
 				633BC6FB22EDE73D00821BCA /* Settings.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -511,7 +488,7 @@
 		};
 		7BCB412A21C3096200BFC4D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8E9750C02C178849AC077E20 /* Pods-YOLO.debug.xcconfig */;
+			baseConfigurationReference = 4BA74844301E3E63002E79BE /* Target Support Files/Pods-YOLO/Pods-YOLO.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
@@ -540,7 +517,7 @@
 		};
 		7BCB412B21C3096200BFC4D0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 121A22FF6962D99DFBF45368 /* Pods-YOLO.release.xcconfig */;
+			baseConfigurationReference = 4BA74845301E3E78002E79BE /* Target Support Files/Pods-YOLO/Pods-YOLO.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
@@ -589,17 +566,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		4BEBE0C42E75A56700EB006F /* XCRemoteSwiftPackageReference "Tesseract-OCR-iOS" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/gali8/Tesseract-OCR-iOS.git";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 4.0.0;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 7BCB410F21C3096100BFC4D0 /* Project object */;
 }

@@ -16,7 +16,6 @@ import CoreML
 import CoreMedia
 import UIKit
 import Vision
-import TesseractOCR
 
 // Shared CIContext for image conversions
 private let sharedCIContext = CIContext(options: nil)
@@ -923,7 +922,7 @@ class ViewController: UIViewController, AVCapturePhotoCaptureDelegate, VideoCapt
         DispatchQueue.global(qos: .userInitiated).async {
 
             var results: [String] = []
-
+/*
             guard Bundle.main.path(forResource: "tessdata/eng", ofType: "traineddata") != nil else {
                 print("[OCR] eng.traineddata not found")
                 DispatchQueue.main.async { completion([]) }
@@ -967,7 +966,7 @@ class ViewController: UIViewController, AVCapturePhotoCaptureDelegate, VideoCapt
 
                 results = cleaned
             }
-
+*/
             DispatchQueue.main.async {
                 completion(results)
             }
