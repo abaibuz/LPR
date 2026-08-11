@@ -98,7 +98,7 @@ LPR/
 ├── Screenshots/
 │   ├── main-screen.png
 │   ├── recognition.png
-│   └── result.png
+│   └── setting.png
 ├── YOLO/
 ├── YOLO.xcodeproj
 ├── Podfile
