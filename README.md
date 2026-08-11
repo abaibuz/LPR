@@ -106,6 +106,12 @@ LPR/
 
 The Pods/ directory is generated locally by CocoaPods and is intentionally excluded from Git.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/main-screen.png" width="250">
+</p>
+
 ## Privacy
 
 License Plate Reader is designed as a personal utility tool, not as a surveillance system.
