@@ -76,14 +76,16 @@ Clone the repository:
 ```bash
 git clone git@github.com:abaibuz/LPR.git
 cd LPR
+```
 
 Install the CocoaPods dependencies:
-
+```bash
 pod install
 
 Open the workspace:
-
+```bash
 open YOLO.xcworkspace
+```
 
 Then select your iPhone as the target device and build the application from Xcode.
 Do not open YOLO.xcodeproj when using CocoaPods. Use YOLO.xcworkspace.
