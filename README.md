@@ -91,7 +91,7 @@ open YOLO.xcworkspace
 Then select your iPhone as the target device and build the application from Xcode.
 Do not open YOLO.xcodeproj when using CocoaPods. Use YOLO.xcworkspace.
 
-Project Structure
+## Project Structure
 
 LPR/
 ├── YOLO/
@@ -101,20 +101,21 @@ LPR/
 ├── Podfile.lock
 ├── .gitignore
 └── README.md
+
 The Pods/ directory is generated locally by CocoaPods and is intentionally excluded from Git.
 
-Privacy
+## Privacy
 
 License Plate Reader is designed as a personal utility tool, not as a surveillance system.
 The application does not store recognized license plates or collect personal information. Camera images are processed locally on the device and are not transmitted to external servers.
 Users are responsible for complying with applicable laws and regulations when using the application to recognize or record license plates.
 
-License
+## License
 
 This project is currently provided for personal and educational purposes.
 See the repository for the current license status.
 
-Author
+## Author
 
 OBaibuz
 GitHub: https://github.com/abaibuz
