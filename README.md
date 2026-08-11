@@ -104,7 +104,8 @@ LPR/
 ├── Podfile
 ├── Podfile.lock
 ├── .gitignore
-└── README.md```
+└── README.md
+```
 
 The Pods/ directory is generated locally by CocoaPods and is intentionally excluded from Git.
 
@@ -114,6 +115,7 @@ The Pods/ directory is generated locally by CocoaPods and is intentionally exclu
   <img src="Screenshots/main-screen.png" width="250">
   <img src="Screenshots/recognition.png" width="250">
 </p>
+
 ## Privacy
 
 License Plate Reader is designed as a personal utility tool, not as a surveillance system.
