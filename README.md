@@ -114,6 +114,7 @@ The Pods/ directory is generated locally by CocoaPods and is intentionally exclu
 <p align="center">
   <img src="Screenshots/main-screen.png" width="250">
   <img src="Screenshots/recognition.png" width="250">
+  <img src="Screenshots/setting.png" width="250">
 </p>
 
 ## Privacy
