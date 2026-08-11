@@ -81,6 +81,7 @@ cd LPR
 Install the CocoaPods dependencies:
 ```bash
 pod install
+```
 
 Open the workspace:
 ```bash
