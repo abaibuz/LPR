@@ -93,6 +93,7 @@ Do not open YOLO.xcodeproj when using CocoaPods. Use YOLO.xcworkspace.
 
 ## Project Structure
 
+```text
 LPR/
 ├── YOLO/
 │   └── Application source code
@@ -101,6 +102,7 @@ LPR/
 ├── Podfile.lock
 ├── .gitignore
 └── README.md
+```
 
 The Pods/ directory is generated locally by CocoaPods and is intentionally excluded from Git.
 
